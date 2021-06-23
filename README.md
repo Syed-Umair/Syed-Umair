@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Syed!</div>  
   
-- 🔭 I’m currently working as a Software Engineer in [FULLCreative](https://full.io/) 
+- 🔭 I’m currently working as a Module Lead in [FULLCreative](https://full.io/) 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - ❓ Ask me about anything related to the MERN stack and related technologies
 - ⚡ Fun fact: I use tabs over spaces  
